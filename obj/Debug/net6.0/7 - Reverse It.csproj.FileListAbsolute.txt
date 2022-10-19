@@ -1,0 +1,30 @@
+/Users/ulisesortega/Desktop/Homework/7 - Reverse It/bin/Debug/net6.0/7 - Reverse It
+/Users/ulisesortega/Desktop/Homework/7 - Reverse It/bin/Debug/net6.0/7 - Reverse It.deps.json
+/Users/ulisesortega/Desktop/Homework/7 - Reverse It/bin/Debug/net6.0/7 - Reverse It.runtimeconfig.json
+/Users/ulisesortega/Desktop/Homework/7 - Reverse It/bin/Debug/net6.0/7 - Reverse It.dll
+/Users/ulisesortega/Desktop/Homework/7 - Reverse It/bin/Debug/net6.0/7 - Reverse It.pdb
+/Users/ulisesortega/Desktop/Homework/7 - Reverse It/obj/Debug/net6.0/7 - Reverse It.csproj.AssemblyReference.cache
+/Users/ulisesortega/Desktop/Homework/7 - Reverse It/obj/Debug/net6.0/7 - Reverse It.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulisesortega/Desktop/Homework/7 - Reverse It/obj/Debug/net6.0/7 - Reverse It.AssemblyInfoInputs.cache
+/Users/ulisesortega/Desktop/Homework/7 - Reverse It/obj/Debug/net6.0/7 - Reverse It.AssemblyInfo.cs
+/Users/ulisesortega/Desktop/Homework/7 - Reverse It/obj/Debug/net6.0/7 - Reverse It.csproj.CoreCompileInputs.cache
+/Users/ulisesortega/Desktop/Homework/7 - Reverse It/obj/Debug/net6.0/7 - Reverse It.dll
+/Users/ulisesortega/Desktop/Homework/7 - Reverse It/obj/Debug/net6.0/refint/7 - Reverse It.dll
+/Users/ulisesortega/Desktop/Homework/7 - Reverse It/obj/Debug/net6.0/7 - Reverse It.pdb
+/Users/ulisesortega/Desktop/Homework/7 - Reverse It/obj/Debug/net6.0/7 - Reverse It.genruntimeconfig.cache
+/Users/ulisesortega/Desktop/Homework/7 - Reverse It/obj/Debug/net6.0/ref/7 - Reverse It.dll
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMinichallenge7/bin/Debug/net6.0/7 - Reverse It
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMinichallenge7/bin/Debug/net6.0/7 - Reverse It.deps.json
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMinichallenge7/bin/Debug/net6.0/7 - Reverse It.runtimeconfig.json
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMinichallenge7/bin/Debug/net6.0/7 - Reverse It.dll
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMinichallenge7/bin/Debug/net6.0/7 - Reverse It.pdb
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMinichallenge7/obj/Debug/net6.0/7 - Reverse It.csproj.AssemblyReference.cache
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMinichallenge7/obj/Debug/net6.0/7 - Reverse It.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMinichallenge7/obj/Debug/net6.0/7 - Reverse It.AssemblyInfoInputs.cache
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMinichallenge7/obj/Debug/net6.0/7 - Reverse It.AssemblyInfo.cs
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMinichallenge7/obj/Debug/net6.0/7 - Reverse It.csproj.CoreCompileInputs.cache
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMinichallenge7/obj/Debug/net6.0/7 - Reverse It.dll
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMinichallenge7/obj/Debug/net6.0/refint/7 - Reverse It.dll
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMinichallenge7/obj/Debug/net6.0/7 - Reverse It.pdb
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMinichallenge7/obj/Debug/net6.0/7 - Reverse It.genruntimeconfig.cache
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMinichallenge7/obj/Debug/net6.0/ref/7 - Reverse It.dll
