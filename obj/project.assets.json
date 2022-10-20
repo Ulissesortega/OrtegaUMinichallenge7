@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/ulisesortega/.nuget/packages/": {}
+    "/Users/brandonle/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMinichallenge7/7 - Reverse It.csproj",
+      "projectUniqueName": "/Users/brandonle/Desktop/GitRepository/OrtegaUMinichallenge7/7 - Reverse It.csproj",
       "projectName": "7 - Reverse It",
-      "projectPath": "/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMinichallenge7/7 - Reverse It.csproj",
-      "packagesPath": "/Users/ulisesortega/.nuget/packages/",
-      "outputPath": "/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMinichallenge7/obj/",
+      "projectPath": "/Users/brandonle/Desktop/GitRepository/OrtegaUMinichallenge7/7 - Reverse It.csproj",
+      "packagesPath": "/Users/brandonle/.nuget/packages/",
+      "outputPath": "/Users/brandonle/Desktop/GitRepository/OrtegaUMinichallenge7/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/ulisesortega/.nuget/NuGet/NuGet.Config"
+        "/Users/brandonle/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }

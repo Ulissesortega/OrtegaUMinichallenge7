@@ -28,3 +28,18 @@
 /Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMinichallenge7/obj/Debug/net6.0/7 - Reverse It.pdb
 /Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMinichallenge7/obj/Debug/net6.0/7 - Reverse It.genruntimeconfig.cache
 /Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMinichallenge7/obj/Debug/net6.0/ref/7 - Reverse It.dll
+/Users/brandonle/Desktop/GitRepository/OrtegaUMinichallenge7/bin/Debug/net6.0/7 - Reverse It
+/Users/brandonle/Desktop/GitRepository/OrtegaUMinichallenge7/bin/Debug/net6.0/7 - Reverse It.deps.json
+/Users/brandonle/Desktop/GitRepository/OrtegaUMinichallenge7/bin/Debug/net6.0/7 - Reverse It.runtimeconfig.json
+/Users/brandonle/Desktop/GitRepository/OrtegaUMinichallenge7/bin/Debug/net6.0/7 - Reverse It.dll
+/Users/brandonle/Desktop/GitRepository/OrtegaUMinichallenge7/bin/Debug/net6.0/7 - Reverse It.pdb
+/Users/brandonle/Desktop/GitRepository/OrtegaUMinichallenge7/obj/Debug/net6.0/7 - Reverse It.csproj.AssemblyReference.cache
+/Users/brandonle/Desktop/GitRepository/OrtegaUMinichallenge7/obj/Debug/net6.0/7 - Reverse It.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonle/Desktop/GitRepository/OrtegaUMinichallenge7/obj/Debug/net6.0/7 - Reverse It.AssemblyInfoInputs.cache
+/Users/brandonle/Desktop/GitRepository/OrtegaUMinichallenge7/obj/Debug/net6.0/7 - Reverse It.AssemblyInfo.cs
+/Users/brandonle/Desktop/GitRepository/OrtegaUMinichallenge7/obj/Debug/net6.0/7 - Reverse It.csproj.CoreCompileInputs.cache
+/Users/brandonle/Desktop/GitRepository/OrtegaUMinichallenge7/obj/Debug/net6.0/7 - Reverse It.dll
+/Users/brandonle/Desktop/GitRepository/OrtegaUMinichallenge7/obj/Debug/net6.0/refint/7 - Reverse It.dll
+/Users/brandonle/Desktop/GitRepository/OrtegaUMinichallenge7/obj/Debug/net6.0/7 - Reverse It.pdb
+/Users/brandonle/Desktop/GitRepository/OrtegaUMinichallenge7/obj/Debug/net6.0/7 - Reverse It.genruntimeconfig.cache
+/Users/brandonle/Desktop/GitRepository/OrtegaUMinichallenge7/obj/Debug/net6.0/ref/7 - Reverse It.dll
