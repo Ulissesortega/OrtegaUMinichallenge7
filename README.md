@@ -1,3 +1,4 @@
 # OrtegaUMinichallenge7
-//Description: The programe ask the user to input more than 2 numbers or letters in order to see the reverese,
-//once the program is executed and complete, It will ask the user if the want to run the program again.
+Description: The programe ask the user to input more than 2 numbers or letters in order to see the reverese, once the program is executed and complete, It will ask the user if the want to run the program again.
+
+Peer Review: Brandon Le - Program worked well and I had no problems ending or replaying. I liked how the program recognized when you entered numbers vs when you entered letters. The code looks very clean and easy to read. I don't think I've been seeing many other people using do while loops so that was cool to see also. Very nice work and good job all around. Lastly in the code at the very top where Name and Date etc is listed, it needs to be updated to the current date and the old peer review needs to be deleted from there.
